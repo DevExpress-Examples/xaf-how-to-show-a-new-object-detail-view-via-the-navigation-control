@@ -14,7 +14,7 @@ namespace NewObjectFromNavigationExample.Module.Controllers {
         }
         void showNavigationItemController_CustomShowNavigationItem(object sender, CustomShowNavigationItemEventArgs e) {
             if (e.ActionArguments.SelectedChoiceActionItem.Id == "NewIssue") {
-                IObjectSpace objectSpace = Application.CreateObjectSpace();
+                IObjectSpace objectSpace = Application.CreateObjectSpace(typeof(Issue));
                 Issue newIssue = objectSpace.CreateObject<Issue>();
                 DetailView detailView = Application.CreateDetailView(objectSpace, newIssue);
                 detailView.ViewEditMode = DevExpress.ExpressApp.Editors.ViewEditMode.Edit;
