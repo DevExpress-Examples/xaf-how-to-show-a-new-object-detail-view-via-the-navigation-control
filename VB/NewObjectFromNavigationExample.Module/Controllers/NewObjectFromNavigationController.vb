@@ -16,7 +16,7 @@ Namespace NewObjectFromNavigationExample.Module.Controllers
         End Sub
         Private Sub showNavigationItemController_CustomShowNavigationItem(ByVal sender As Object, ByVal e As CustomShowNavigationItemEventArgs)
             If e.ActionArguments.SelectedChoiceActionItem.Id = "NewIssue" Then
-                Dim objectSpace As IObjectSpace = Application.CreateObjectSpace()
+                Dim objectSpace As IObjectSpace = Application.CreateObjectSpace(GetType(Issue))
                 Dim newIssue As Issue = objectSpace.CreateObject(Of Issue)()
                 Dim detailView As DetailView = Application.CreateDetailView(objectSpace, newIssue)
                 detailView.ViewEditMode = DevExpress.ExpressApp.Editors.ViewEditMode.Edit
