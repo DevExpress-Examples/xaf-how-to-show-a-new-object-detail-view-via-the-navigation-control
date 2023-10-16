@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" ?>
+<Application Title="NavigationItemEF">
+ <NavigationItems>
+    <Items>
+      <Item Id="Default">
+        <Items>
+          <Item Id="NewIssue" Caption="Create New Issue…" ImageName="Action_New" ViewId="Issue_DetailView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Views>
+  </Views>
+</Application>
