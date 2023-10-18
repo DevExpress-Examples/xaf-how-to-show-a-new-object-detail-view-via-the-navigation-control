@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # How to Show a New Object Detail View via the Navigation Control
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e236/)**
+**[[Run Online]](https://codecentral.devexpress.com/134575476/)**
 <!-- run online end -->
 
 
