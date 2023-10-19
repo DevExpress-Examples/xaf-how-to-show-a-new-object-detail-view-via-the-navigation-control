@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # XAF - How to Show a New Object Detail View via the Navigation Control
 
-This example demonstrates how to execute custom code when the navigation control's item is clicked. In our case we create a new object and show its detail view when a user clicks a custom item in the navigation control.
+This example demonstrates how to execute custom code when the navigation control's item is clicked. Here we created a new object and show its detail view when a user clicks a custom item in the navigation control.
 
 <kbd>![image](https://github.com/DevExpress-Examples/XAF_how-to-show-a-new-object-detail-view-via-the-navigation-control-e236/assets/14300209/942a8ff8-e26d-478b-8e2f-9a1b66720d69)</kbd>
 
