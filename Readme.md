@@ -10,7 +10,7 @@ This example demonstrates how to execute custom code when the navigation control
 
 ## Implementation Details
 
-For details, refer to the following topic: [How to: Create a New Object using the Navigation Control](https://docs.devexpress.com/eXpressAppFramework/112920/application-shell-and-base-infrastructure/navigation/how-to-create-a-new-object-using-the-navigation-control).
+Refer to the following topic for more information: [How to: Create a New Object using the Navigation Control](https://docs.devexpress.com/eXpressAppFramework/112920/application-shell-and-base-infrastructure/navigation/how-to-create-a-new-object-using-the-navigation-control).
 
 ## Files to Review
 
