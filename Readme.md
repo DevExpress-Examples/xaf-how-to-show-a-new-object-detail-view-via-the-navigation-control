@@ -18,7 +18,7 @@ Refer to the following topic for more information: [How to: Create a New Object 
 
 * [NewObjectFromNavigationController.cs](./CS/EF/NavigationItemEF/NavigationItemEF.Module/Controllers/NewObjectFromNavigationController.cs)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-show-a-new-object-detail-view-via-the-navigation-control&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-show-a-new-object-detail-view-via-the-navigation-control&~~~was_helpful=no)
 
