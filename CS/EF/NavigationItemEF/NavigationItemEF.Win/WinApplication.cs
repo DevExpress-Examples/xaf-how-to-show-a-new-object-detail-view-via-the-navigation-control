@@ -18,7 +18,6 @@ public class NavigationItemEFWindowsFormsApplication : WinApplication {
 		SplashScreen = new DXSplashScreen(typeof(XafSplashScreen), new DefaultOverlayFormOptions());
         ApplicationName = "NavigationItemEF";
         CheckCompatibilityType = DevExpress.ExpressApp.CheckCompatibilityType.DatabaseSchema;
-        UseOldTemplates = false;
         DatabaseVersionMismatch += NavigationItemEFWindowsFormsApplication_DatabaseVersionMismatch;
         CustomizeLanguagesList += NavigationItemEFWindowsFormsApplication_CustomizeLanguagesList;
     }
